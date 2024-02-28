@@ -30,6 +30,7 @@ require'nvim-treesitter.configs'.setup {
 
 require'clangd_extensions'.setup()
 require'nvim-tree'.setup()
+require'nvim-web-devicons'.setup()
 require'nvim-autopairs'.setup()
 require'nvim-tree'.setup()
 require'nvim-autopairs'.setup()
